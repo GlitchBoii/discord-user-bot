@@ -8,7 +8,7 @@ For educational purpases only! If you use this bot on your main Discord account 
 
 DESCRIPTION
 
-Small discord "self-bot" for mainly made for backing up your chats and friends. 
+Small discord "self-bot" for mainly made for backing up your account data. Will be developed and update with time.
 
 SETUP
 
